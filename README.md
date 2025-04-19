@@ -24,6 +24,6 @@ Part Three:
 - Each one of those projects has the needed code for your terminal in the order that you need to run the commands. There is also supporting documentation linked in each one. Do not skip any steps. By skipping steps you will begin to get errors and will need to start over inorder to have the propper packages and dependancies. installed in the correct order.
 
 
-If you are able to see the PHP Version page in your browser, you have compelted the project! Make sure you disconnect from your terminal and destory the resources after. THis project is ONLY for practice to master using the terminal to configure your Linux linode with the LAMP stack for future projects. Once you have mastered these skills, you can move onto more complex configurations and Cloud options for hosting web applications. 
+If you are able to see the PHP Version page in your browser, you have compelted the project! Make sure you disconnect from your terminal and destory the resources after. This project is ONLY for practice to master using the terminal to configure your Linux linode with the LAMP stack for future projects. Once you have mastered these skills, you can move onto more complex configurations and Cloud options for hosting web applications. 
 
 
