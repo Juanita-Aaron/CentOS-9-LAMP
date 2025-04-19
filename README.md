@@ -6,6 +6,7 @@ Part one:
 - You will need to create an a CentOS-9 server. I used the Akamai Cloud platform to create my free Linode with this link https://www.linode.com/
   - You can follow NetworkChuck on YouTube for deals and specials to get a free $100 code to get started with your linode https://www.youtube.com/@NetworkChuck/search?query=linode
 - For your CentOS 9 server, you will want to build the one using the least amount of resources. We are not going to need a lof of space for this demo project and you will more than likely delete the project once you have completed it. This project is inteded for you to learn and practice completing the LAMP set up for furture projects.
+- More step by step details can found in this project https://github.com/users/Juanita-Aaron/projects/5
 <img width="1178" alt="image" src="https://github.com/user-attachments/assets/f2548d42-efdc-40a3-86e1-5e32a79818fe" />
 
 
